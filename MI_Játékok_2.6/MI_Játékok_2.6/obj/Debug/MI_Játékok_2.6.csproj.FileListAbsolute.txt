@@ -1,0 +1,8 @@
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\bin\Debug\MI_Játékok_2.6.exe.config
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\bin\Debug\MI_Játékok_2.6.exe
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\bin\Debug\MI_Játékok_2.6.pdb
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\obj\Debug\MI_Játékok_2.6.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\obj\Debug\MI_Játékok_2._6.Properties.Resources.resources
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\obj\Debug\MI_Játékok_2.6.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\obj\Debug\MI_Játékok_2.6.exe
+C:\Users\Acer\source\repos\MESTINT\MI_Játékok_2.6\MI_Játékok_2.6\obj\Debug\MI_Játékok_2.6.pdb

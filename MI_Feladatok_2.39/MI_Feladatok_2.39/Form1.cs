@@ -22,17 +22,16 @@ namespace MI_Feladatok_2._39
         {
             InitializeComponent();
             keresok.Add(new HibaProbaRandom());
-            keresok.Add(new Melysegi());
-            keresok.Add(new Optimalis());
-            keresok.Add(new BackTrack());
-            keresok.Add(new BestFirst());
             keresok.Add(new Aalgoritmus());
             keresok.Add(new AgEsKorlat());
+            keresok.Add(new BackTrack());
+            keresok.Add(new BestFirst());
+            keresok.Add(new Melysegi());
+            keresok.Add(new Optimalis());
             keresok.Add(new Szelessegi());
-            foreach (Kereso kereso in keresok)
+            foreach(Kereso kereso in keresok)
             {
                 comboBox1.Items.Add(kereso.GetType().Name);
-
             }
             megoldas = keresok[0].Utvonal;
             this.comboBox1.SelectedIndex = 0;
@@ -57,11 +56,11 @@ namespace MI_Feladatok_2._39
                 int oszlopSzam = 0;
                 if (korongok1[i] == "R")
                 {
-                    oszlopSzam = 1;
+                    oszlopSzam = 2;
                 }
                 else if (korongok1[i] == "Q")
                 {
-                    oszlopSzam = 2;
+                    oszlopSzam = 1;
                 }
 
                 int pozicio = 0;
@@ -76,11 +75,11 @@ namespace MI_Feladatok_2._39
                 int oszlopSzam = 0;
                 if (korongok1[i] == "R")
                 {
-                    oszlopSzam = 1;
+                    oszlopSzam = 2;
                 }
                 else if (korongok1[i] == "P")
                 {
-                    oszlopSzam = 2;
+                    oszlopSzam = 0;
                 }
 
                 int pozicio = 0;
@@ -95,11 +94,11 @@ namespace MI_Feladatok_2._39
                 int oszlopSzam = 0;
                 if (korongok2[i] == "R")
                 {
-                    oszlopSzam = 1;
+                    oszlopSzam = 2;
                 }
                 else if (korongok2[i] == "P")
                 {
-                    oszlopSzam = 2;
+                    oszlopSzam = 0;
                 }
 
                 int pozicio = 0;
@@ -115,11 +114,11 @@ namespace MI_Feladatok_2._39
                 int oszlopSzam = 0;
                 if (korongok2[i] == "R")
                 {
-                    oszlopSzam = 0;
+                    oszlopSzam = 2;
                 }
                 else if (korongok2[i] == "Q")
                 {
-                    oszlopSzam = 2;
+                    oszlopSzam = 1;
                 }
 
                 int pozicio = 0;

@@ -7,3 +7,12 @@ C:\Users\Acer\source\repos\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug
 C:\Users\Acer\source\repos\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.csproj.GenerateResource.cache
 C:\Users\Acer\source\repos\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.exe
 C:\Users\Acer\source\repos\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.pdb
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\bin\Debug\MI_Feladatok_2.39.exe.config
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\bin\Debug\MI_Feladatok_2.39.exe
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\bin\Debug\MI_Feladatok_2.39.pdb
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2._39.Form1.resources
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2._39.Properties.Resources.resources
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.exe
+C:\Users\Acer\source\repos\MESTINT\MESTINT\MI_Feladatok_2.39\MI_Feladatok_2.39\obj\Debug\MI_Feladatok_2.39.pdb
